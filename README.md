@@ -1,9 +1,19 @@
 # Hi, I'm Meet 👋
 
-🎓 Data Science Graduate Student
-🤖 Machine Learning & MLOps Enthusiast
-☁️ Building scalable AI systems using AWS, Docker, and CI/CD
-📊 Interested in Recommendation Systems, RAG Applications, and Data Engineering
+🎓 Data Science & Analytical Engineering Enthusiast
+📊 Strong focus on SQL, Machine Learning, and Data-driven Systems
+🤖 Building ML systems, recommendation engines, and RAG-based applications
+☁️ Interested in scalable data pipelines, analytics engineering, and MLOps
+
+---
+
+## 🚀 Core Interests
+
+* 📊 Data Science & Analytics Engineering
+* 🧠 Machine Learning & AI Systems
+* 🗄️ SQL & Data Warehousing
+* ⚙️ End-to-End ML Pipelines (MLOps)
+* ☁️ Cloud & Scalable Data Systems
 
 ---
 
@@ -11,36 +21,25 @@
 
 ### 🎵 Spotify Hybrid Recommendation System
 
-Hybrid recommender using Content-Based + Collaborative Filtering with full MLOps deployment on AWS.
-
-**Tech:** Python, Scikit-learn, Docker, DVC, GitHub Actions, AWS, Streamlit
-
----
+Hybrid ML recommender using Content-Based + Collaborative Filtering with full MLOps deployment.
 
 ### 🩺 AI Medical Assistant Chatbot
 
-RAG-based medical chatbot using LangChain, Pinecone, Groq LLaMA3, FastAPI, and Streamlit.
-
-**Tech:** LangChain, Pinecone, FastAPI, Streamlit, LLMs
-
----
+RAG-based medical assistant using LangChain, Pinecone, and LLMs for context-aware Q&A.
 
 ### 🏡 Airbnb Analytics Dashboard
 
-Interactive Tableau dashboard analyzing Airbnb pricing, booking trends, and neighborhood insights in Austin, Texas.
-
-**Tech:** Tableau, Data Visualization, Analytics
+Data analytics project using Tableau to explore pricing trends, geography, and booking behavior.
 
 ---
 
 ## 🛠️ Tech Stack
 
-Python • Machine Learning • Deep Learning • SQL • Tableau • Docker • AWS • GitHub Actions • DVC • FastAPI • Streamlit • LangChain • Pinecone
+Python • SQL • Machine Learning • Data Science • Tableau • Docker • AWS • GitHub Actions • FastAPI • Streamlit • DVC • LangChain
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-LinkedIn: YOUR_LINKEDIN
-Portfolio: YOUR_PORTFOLIO
-Email: YOUR_EMAIL
+LinkedIn: www.linkedin.com/in/meet-paghadar
+Email : mpaghadar22@gmail.com
