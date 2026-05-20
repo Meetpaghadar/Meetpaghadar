@@ -64,7 +64,8 @@ I enjoy designing systems that combine **scalable data infrastructure**, **analy
 
 ### 🤖 Machine Learning & AI
 
-**Python • Scikit-learn • XGBoost • NLP • LangChain • Pinecone • RAG • LLM Applications • FastAPI • Streamlit**
+ **Python • Scikit-learn • XGBoost • NLP • LangChain • Pinecone • RAG • LLM Applications • FastAPI • Streamlit**
+ 
 ---
 
 ## 📌 Featured Projects
